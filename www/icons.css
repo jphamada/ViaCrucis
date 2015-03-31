@@ -1,0 +1,169 @@
+@font-face {
+	font-family: 'viacrucis';
+	src:url('fonts/viacrucis.eot?lhdup8');
+	src:url('fonts/viacrucis.eot?#iefixlhdup8') format('embedded-opentype'),
+		url('fonts/viacrucis.woff?lhdup8') format('woff'),
+		url('fonts/viacrucis.ttf?lhdup8') format('truetype'),
+		url('fonts/viacrucis.svg?lhdup8#viacrucis') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="v"], [class*=" v"] {
+	font-family: 'viacrucis';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.vlagaceta:before {
+	content: "\e623";
+}
+
+.vlogo:before {
+	content: "\e60d";
+}
+
+.vget-app:before {
+	content: "\e600";
+}
+
+.vhelp:before {
+	content: "\e601";
+}
+
+.vhome:before {
+	content: "\e602";
+}
+
+.vinfo:before {
+	content: "\e603";
+}
+
+.vopen-in-new:before {
+	content: "\e604";
+}
+
+.vopen-with:before {
+	content: "\e605";
+}
+
+.vsearch:before {
+	content: "\e606";
+}
+
+.vsettings:before {
+	content: "\e607";
+}
+
+.vsettings-overscan:before {
+	content: "\e608";
+}
+
+.vstars:before {
+	content: "\e609";
+}
+
+.vnew-releases:before {
+	content: "\e60a";
+}
+
+.vflag:before {
+	content: "\e60b";
+}
+
+.vmode-comment:before {
+	content: "\e60c";
+}
+
+.vkeyboard-arrow-down:before {
+	content: "\e60e";
+}
+
+.vkeyboard-arrow-left:before {
+	content: "\e60f";
+}
+
+.vkeyboard-arrow-right:before {
+	content: "\e610";
+}
+
+.vkeyboard-arrow-up:before {
+	content: "\e611";
+}
+
+.vdehaze:before {
+	content: "\e612";
+}
+
+.vapps:before {
+	content: "\e613";
+}
+
+.varrow-back:before {
+	content: "\e614";
+}
+
+.varrow-forward:before {
+	content: "\e615";
+}
+
+.vcancel:before {
+	content: "\e616";
+}
+
+.vcheck:before {
+	content: "\e617";
+}
+
+.vchevron-left:before {
+	content: "\e618";
+}
+
+.vchevron-right:before {
+	content: "\e619";
+}
+
+.vclose:before {
+	content: "\e61a";
+}
+
+.vexpand-less:before {
+	content: "\e61b";
+}
+
+.vexpand-more:before {
+	content: "\e61c";
+}
+
+.vmenu:before {
+	content: "\e61d";
+}
+
+.vmore-horiz:before {
+	content: "\e61e";
+}
+
+.vmore-vert:before {
+	content: "\e61f";
+}
+
+.vrefresh:before {
+	content: "\e620";
+}
+
+.vunfold-less:before {
+	content: "\e621";
+}
+
+.vunfold-more:before {
+	content: "\e622";
+}
+
