@@ -6,14 +6,14 @@
         id        = "com.anagramaestudio.helloworld"
         version   = "1.0.0">
 
-    <name>Novena del Milagro</name>
+    <name>Vía Crucis de La Gaceta</name>
 
     <description>
         Para rezar desde el celular en cualquier parte.
     </description>
 
-    <author href="http://anagramaestudio.com.ar" email="phamada@anagramaestudio.com.ar">
-        LGS
+    <author href="http://lagaceta.com.ar" email="jhamada@lagaceta.com.ar">
+        LA GACETA
     </author>
 
     <!--
